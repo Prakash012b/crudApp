@@ -7,8 +7,8 @@ python3.14 -m venv venv
 source venv/bin/activate
 
 # Clon the latest app directly onto the server
-git clone https://github.com/your-github/your-repo.git
-cd your-repo
+git clone https://github.com/Prakash012b/crudApp.git
+cd crudApp
 pip install -r requirements.txt
 
 # Run Uvicorn on port 80 bound to all interfaces
