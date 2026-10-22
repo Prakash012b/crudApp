@@ -3,7 +3,7 @@ import axios from 'axios';
 import './App.css';
 
 // Base URL for our backend API
-const API_BASE = "http://54.165.232.230:8000/";
+const API_BASE = "http://54.165.232.230:8000";
 
 function App() {
   // State variables to manage our data
